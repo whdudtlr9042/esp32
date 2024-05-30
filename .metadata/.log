@@ -1,0 +1,5401 @@
+!SESSION 2024-05-30 09:14:35.408 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+This is a continuation of log file C:\Users\APR\eclipse-workspace\.metadata\.bak_7.log
+Created Time: 2024-05-30 12:53:26.000
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.000
+!MESSAGE Cleaning marker: Type 'ledc_cb_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker: Type 'ledc_fade_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.008
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.009
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.010
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Symbol 'ETS_LEDC_INTR_SOURCE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Type 'ledc_isr_handle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.011
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.012
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.012
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.012
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.012
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.012
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.013
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.014
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.015
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.016
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.017
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.018
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'ledc_clk_src_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.019
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.020
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.020
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.020
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.020
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.020
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.021
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_DISABLE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_FADE_END' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.022
+!MESSAGE Cleaning marker: Type 'ledc_intr_type_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.023
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_LOW_SPEED_MODE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type '_lock_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_LL_GLOBAL_CLOCKS' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'portMUX_INITIALIZER_UNLOCKED' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type 'portMUX_TYPE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Type 'ledc_isr_handle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.025
+!MESSAGE Cleaning marker: Symbol 'LEDC_CHANNEL_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker: Type 'ledc_hal_context_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.027
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.029
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.030
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.031
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.032
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.033
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.034
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.035
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.036
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.037
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.038
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.039
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.040
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.041
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.042
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.043
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.044
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.045
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.046
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.047
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.048
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.049
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.050
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.050
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.050
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.050
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.050
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.051
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.052
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.053
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.054
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.054
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.054
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.054
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.054
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.055
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.056
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.057
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.058
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.059
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.060
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.061
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.062
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.063
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.064
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.065
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.066
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.067
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.068
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.069
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.070
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.071
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.072
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.073
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.074
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.075
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.076
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.077
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.078
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.079
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.079
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.079
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.079
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.079
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.080
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.080
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.080
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.080
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:53:26.080
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.758
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.758
+!MESSAGE Cleaning marker: Type 'ledc_cb_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.758
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.758
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.759
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.759
+!MESSAGE Cleaning marker: Type 'ledc_fade_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.759
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.759
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.759
+!MESSAGE Cleaning marker: Type 'ledc_duty_direction_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Type 'ledc_isr_handle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Symbol 'portMUX_INITIALIZER_UNLOCKED' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Symbol 'LEDC_CHANNEL_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.760
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Type 'ledc_hal_context_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Symbol 'LEDC_LL_GLOBAL_CLOCKS' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.761
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.762
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.762
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.762
+!MESSAGE Cleaning marker: Type '_lock_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.762
+!MESSAGE Cleaning marker: Type 'portMUX_TYPE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.763
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_DISABLE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_FADE_END' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.764
+!MESSAGE Cleaning marker: Type 'ledc_intr_type_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker: Symbol 'LEDC_LOW_SPEED_MODE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.765
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.766
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.767
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.768
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.769
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.770
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.771
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'ledc_clk_src_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.772
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.777
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.777
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.778
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.779
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.780
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.781
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.782
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.783
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.784
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.785
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.786
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.787
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.788
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.789
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.790
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.791
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.792
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.793
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.794
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.795
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.795
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.795
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.795
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.795
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.796
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.797
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.798
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.799
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.800
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.801
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.802
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.803
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.804
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.805
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.806
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.807
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.808
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.809
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.810
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.811
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.812
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.813
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.814
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.815
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.816
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.817
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.818
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.819
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.820
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.821
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.822
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.823
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.824
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.825
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.826
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.827
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.828
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.829
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.830
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:16.831
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:24.041
+!MESSAGE C:\Users\APR\Documents\esp-idf-5.1.3\tools\idf.py -p COM6 flash
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:24.042
+!MESSAGE flash command: C:\Users\APR\.espressif\python_env\idf5.4_py3.12_env\Scripts\python.exe C:\Users\APR\Documents\esp-idf-5.1.3\tools\idf.py -p COM6 flash
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Type 'ledc_hal_context_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.660
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Type 'ledc_duty_direction_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Type '_lock_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Type 'ledc_isr_handle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Symbol 'LEDC_LOW_SPEED_MODE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.661
+!MESSAGE Cleaning marker: Symbol 'LEDC_CHANNEL_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Type 'bool' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Type 'ledc_cb_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Type 'SemaphoreHandle_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.662
+!MESSAGE Cleaning marker: Type 'ledc_fade_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_FADE_END' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'ledc_intr_type_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Symbol 'LEDC_INTR_DISABLE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.663
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Symbol 'true' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Symbol 'LEDC_LL_GLOBAL_CLOCKS' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Type 'ledc_slow_clk_sel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.664
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'portMUX_INITIALIZER_UNLOCKED' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Type 'portMUX_TYPE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.665
+!MESSAGE Cleaning marker: Type 'ledc_clk_src_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.666
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.667
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Type 'uint32_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Symbol 'portMAX_DELAY' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Symbol 'false' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.668
+!MESSAGE Cleaning marker: Symbol 'ESP_OK' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.669
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.670
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.671
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.672
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.673
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.674
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.675
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_STATE' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'NULL' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'LEDC_TIMER_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'ESP_ERR_INVALID_ARG' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Symbol 'LEDC_SPEED_MODE_MAX' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.676
+!MESSAGE Cleaning marker: Type 'ledc_timer_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker: Type 'ledc_channel_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker: Type 'ledc_mode_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker: Type 'esp_err_t' could not be resolved for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.677
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.678
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.679
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.680
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.681
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.686
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.686
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.687
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.687
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.687
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.687
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.688
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.688
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.688
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.688
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.689
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.689
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.689
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.689
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.690
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.690
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.690
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.690
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.690
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.691
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.692
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.693
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.693
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.693
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.693
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.693
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.694
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.694
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.694
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.694
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.695
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.695
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.695
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.695
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.695
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.696
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.696
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.696
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.696
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.696
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.697
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.697
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.697
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.697
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.698
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.698
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.698
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.698
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.699
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.700
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.701
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.702
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.702
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.702
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.702
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.702
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.703
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.704
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.704
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.704
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.704
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.704
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.705
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.705
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.705
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.705
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.706
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.706
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.706
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.706
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.706
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.707
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.708
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.708
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.708
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.708
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.708
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.709
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.710
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.710
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.710
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.710
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.710
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.721
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.721
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.721
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.721
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.722
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.723
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.724
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.725
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.726
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.727
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.727
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.727
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.728
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.729
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.730
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.731
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.732
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.733
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.734
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.735
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.736
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.736
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.736
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.736
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.736
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.737
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.737
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.737
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.737
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.738
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.739
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.740
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.740
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.740
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.740
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.741
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.742
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.743
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.744
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.744
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.744
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.744
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.744
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.745
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.747
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.748
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.749
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.750
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.751
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.752
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.753
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.754
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.755
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.756
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.757
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.758
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.759
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.760
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.761
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.762
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.762
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.762
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.762
+!MESSAGE Cleaning marker:  for: ledc.c
+
+!ENTRY com.espressif.idf.core 1 0 2024-05-30 12:55:26.762
+!MESSAGE Cleaning marker:  for: ledc.c

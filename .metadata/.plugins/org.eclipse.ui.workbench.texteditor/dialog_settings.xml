@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="LEDC_OUTPUT_IO"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="LEDC_OUTPUT_IO"/>
+			<item value="LEDC_DUTY_RES1"/>
+			<item value="LEDC_CHANNEL1"/>
+			<item value="LEDC_TIMER1"/>
+			<item value="LEDC_DUTY_RES"/>
+			<item value="LEDC_CHANNEL2"/>
+			<item value="ledc_update_duty"/>
+			<item value="LEDC_LOW_SPEED_MODE"/>
+			<item value="LEDC_HIGH_SPEED_MODE"/>
+			<item value="ledc_speed_mode_ctx_create"/>
+			<item value="LEDC_DUTY_DIR_DECREASE"/>
+			<item value="ledc_duty_config"/>
+			<item value="SOC_LEDC_TIMER_BIT_WIDTH"/>
+			<item value="ledc_timer"/>
+			<item value="LEDC_FREQUENCY"/>
+		</list>
+		<list key="replacehistory">
+			<item value="LEDC_DUTY_RES2"/>
+			<item value="LEDC_CHANNEL2"/>
+			<item value="LEDC_TIMER2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1722"/>
+		<item key="DIALOG_Y_ORIGIN" value="707"/>
+		<item key="DIALOG_WIDTH" value="418"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
